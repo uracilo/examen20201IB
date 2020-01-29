@@ -6,23 +6,25 @@ Bienvenidos a su primer examen de Introducción a Big Data estas son las instruc
   - Recordar el repositorio deberá tener por lo menos 3 commits de cada integrante
   - En un Archivo README.md deberá presentar la siguiente información
 
-### Titulo del proyecto :fa-check:
-###  Descripción general :fa-check:
-  - Redactar de 20 a 40 palabras su proyecto para informar:
+### Titulo del proyecto
+###  Descripción general 
+  - Redactar de 20 a 40 palabras su proyecto para informar los siguientes puntos:
   - El propósito (¿Por qué se hace?)
   - El proceso (¿Cómo se hace?)
   - El resultado (¿Qué hace?)
 
-## Diagrama general de flujo de datos  :fa-check:
+## Diagrama general de flujo de datos
 (valor 3 puntos)
+
 Se deberá presentar en un flujo la informacion que será generada y como se guardará en la base de datos o en el file sistem
 
 
-## Las 5 V´s del Big Data :fa-check:
+## Las 5 V´s del Big Data
 (valor 5 puntos)
+
 Identificar en su proyecto donde estan presentes las 5v´s del Big Data y si alguna no esta presente justificar su respuesta.
 
-## Diagrama ETL  :fa-check:
+## Diagrama ETL 
 (valor 2 puntos)
 
 **Extracción** de información de donde se obtendrá la información, bases de datos, sistemas de archivos, consultas de api, técnicas de scrapping etc.
@@ -37,7 +39,7 @@ Identificar en su proyecto donde estan presentes las 5v´s del Big Data y si alg
 1.- Puntualidad en la entrega del examen
 
   -Inicio del examen a las 7 am termino a las 8:40am 
-  
+    
   -Todo commit después de las 10 am no será considerado para evaluación 
   
 2.- Claridad en la redacción y la información
