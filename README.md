@@ -29,12 +29,16 @@ Identificar en su proyecto donde estan presentes las 5v´s del Big Data y si alg
 
 **Transformación** en este punto se deberá explicar que se busca con esos datos extraídos, garantizar el funcionamiento del sensor a conectar, identificar mayores cargas de actividad, etc
 
-**Load ** (CARGA) en este aspecto se deberá describir de que forma se presentará la información en una gráfica, en una tabla, etc
+**Load** (CARGA) en este aspecto se deberá describir de que forma se presentará la información en una gráfica, en una tabla, etc
 
 
 # Puntos a Evaluar 
+
 1.- Puntualidad en la entrega del examen
-Inicio del examen a las 7 am termino a las 8:40am 
-Todo commit después de las 10 am no será considerado para evaluación 
+
+  -Inicio del examen a las 7 am termino a las 8:40am 
+  -Todo commit después de las 10 am no será considerado para evaluación 
+  
 2.- Claridad en la redacción y la información
+
 3.- Correcto uso de un Readme y la herramienta de github
