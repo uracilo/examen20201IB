@@ -37,6 +37,7 @@ Identificar en su proyecto donde estan presentes las 5v´s del Big Data y si alg
 1.- Puntualidad en la entrega del examen
 
   -Inicio del examen a las 7 am termino a las 8:40am 
+  
   -Todo commit después de las 10 am no será considerado para evaluación 
   
 2.- Claridad en la redacción y la información
