@@ -46,4 +46,4 @@ Identificar en su proyecto donde estan presentes las 5v´s del Big Data y si alg
 
 3.- Correcto uso de un Readme y la herramienta de github
 
-4.- Conocimientos sobre ETL y identificacion de las 5´v del Big Data
+4.- Conocimientos sobre ETL e identificación de las 5´v del Big Data
