@@ -40,8 +40,10 @@ Identificar en su proyecto donde estan presentes las 5v´s del Big Data y si alg
 
   -Inicio del examen a las 7 am termino a las 8:40am 
     
-  -Todo commit después de las 10 am no será considerado para evaluación 
+  -Todo commit después de las 8:40 am no será considerado para evaluación 
   
 2.- Claridad en la redacción y la información
 
 3.- Correcto uso de un Readme y la herramienta de github
+
+4.- Conocimientos sobre ETL y identificacion de las 5´v del Big Data
